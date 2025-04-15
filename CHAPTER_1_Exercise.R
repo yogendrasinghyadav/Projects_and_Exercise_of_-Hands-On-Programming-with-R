@@ -1,3 +1,4 @@
+
 #CHAPTER 1 > Exercise
 # That’s the basic interface for executing R code in RStudio. Think you have it? If so, try
 # doing these simple tasks. If you execute everything correctly, you should end up with
